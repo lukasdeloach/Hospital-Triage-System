@@ -1,8 +1,6 @@
 # Hospital-Triage-System
 
-Project Leader: Lukas DeLoach
-
-Project Team Members: Emma Zimmerman, Iker Martinez, Kat Saburov, and Neiloy Hossain
+Project Team Members: Lukas DeLoach, Emma Zimmerman, Iker Martinez, Kat Saburov, and Neiloy Hossain
 
 Project Goal: To facilitate movement in Hospital during Emergencies.
 
@@ -20,6 +18,3 @@ Shows doctor/nurse availability and assigns patients to available doctor/nurse
 ![AEC9C726-992F-4413-ACCC-015225809C71_1_201_a](https://user-images.githubusercontent.com/97558729/172265042-0f5c2bd6-6ab3-4eb9-9531-70b72cd55e58.jpeg)
 
 ![75F84B2E-4DA1-4C2B-83DF-95560DFBDAE4_1_201_a](https://user-images.githubusercontent.com/97558729/172265068-94aaa478-02bb-4302-ac12-1a747f998a49.jpeg)
-
-![84078160-4914-428D-844F-E28E3E0F9EE1_1_105_c](https://user-images.githubusercontent.com/97558729/172265860-8c94a9f5-c2f8-424f-a4f1-095f2c22315f.jpeg)
-
