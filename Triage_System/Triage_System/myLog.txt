@@ -1,0 +1,6 @@
+Apr 26, 2022 6:30:53 PM Logging log
+INFO: Patient has been admitted
+Apr 28, 2022 3:20:36 PM Logging log
+INFO: Patient has been admitted
+Apr 28, 2022 3:20:49 PM Logging log
+INFO: Patient has been admitted
